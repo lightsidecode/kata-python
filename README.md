@@ -5,6 +5,6 @@ Podstawy
 ----------------------------
 
 1. [Pierwszy program w języku Python](/basic/lesson01.py),
-2. [Arytmetyka i typy danych w języku Python](/basic/lesson02.py),
+2. [Arytmetyka w języku Python](/basic/lesson02.py),
 3. [Typy danych w języku Python](/basic/lesson03.py),
-4. [Łańcuchy znakoów w języku Python](/basic/lesson04.py).
+4. [Łańcuchy znaków w języku Python](/basic/lesson04.py).
