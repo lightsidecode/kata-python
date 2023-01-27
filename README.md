@@ -18,4 +18,5 @@ Podstawy
 12. [Funkcje w jezyku Python](/basic/lesson12.py),
 13. [Własny moduł w języku Python](/basic/lesson13.py),
 14. [Import modułów w języku Python](/basic/lesson13_import.py),
-15. [Klasy i dziedziczenie w języku Python](/basic/lesson14.py).
+15. [Klasy i dziedziczenie w języku Python](/basic/lesson14.py),
+16. [Wyjatki w jezyku Python](/basic/lesson15.py).
