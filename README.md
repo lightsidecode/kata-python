@@ -11,3 +11,4 @@ Podstawy
 5. [Listy w języku Python](/basic/lesson05.py),
 6. [Krotki w języku Python](/basic/lesson06.py),
 7. [Słowniki w języku Python](/basic/lesson07.py).
+8. [Zbiory w jezyku Python](/basic/lesson08.py)
