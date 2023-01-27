@@ -1,5 +1,5 @@
 ###############################################################################
-# Standardowe wejscie / wyjscie w Pythonie.                                   #
+# Standardowe wejscie / wyjscie w jezyku Python.                              #
 ###############################################################################
 
 # metody odpowiedzialne za odczytanie napisow wprowadzonych na standardowe 
