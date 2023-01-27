@@ -15,4 +15,6 @@ Podstawy
 09. [Instrukcja warunkowa](/basic/lesson09.py),
 10. [Pętle programowe](/basic/lesson10.py),
 11. [Standardowe wejście / wyjście w języku Python](/basic/lesson11.py),
-12. [Funkcje w jezyku Python](/basic/lesson12.py).
+12. [Funkcje w jezyku Python](/basic/lesson12.py),
+13. [Własny moduł w języku Python](/basic/lesson13.py),
+14. [Import modułów w języku Python](/basic/lesson13_import.py).
