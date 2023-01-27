@@ -9,4 +9,5 @@ Podstawy
 3. [Typy danych w języku Python](/basic/lesson03.py),
 4. [Łańcuchy znaków w języku Python](/basic/lesson04.py),
 5. [Listy w języku Python](/basic/lesson05.py),
-6. [Krotki w języku Python](/basic/lesson06.py).
+6. [Krotki w języku Python](/basic/lesson06.py),
+7. [Słowniki w języku Python](/basic/lesson07.py).
