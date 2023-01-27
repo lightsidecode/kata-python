@@ -14,4 +14,5 @@ Podstawy
 08. [Zbiory w jezyku Python](/basic/lesson08.py),
 09. [Instrukcja warunkowa](/basic/lesson09.py),
 10. [Pętle programowe](/basic/lesson10.py),
-11. [Standardowe wejście / wyjście w Pythonie](/basic/lesson11.py).
+11. [Standardowe wejście / wyjście w Pythonie](/basic/lesson11.py),
+12. [Funkcje w jezyku Python](/basic/lesson12.py).
