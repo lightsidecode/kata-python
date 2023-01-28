@@ -21,3 +21,7 @@ Podstawy
 15. [Klasy i dziedziczenie w języku Python](/basic/lesson14.py),
 16. [Wyjatki w jezyku Python](/basic/lesson15.py),
 17. [Uzyskiwanie pomocy w języku Python](/basic/lesson16.py).
+
+Zadania
+----------------------------
+1. [Napisać funkcje wykonującą kopiowanie pliku, która pomija linie rozpoczynające sie od znaku **#** (linie z komentarzami)](/tasks/task001.py).
