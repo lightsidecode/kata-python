@@ -4,7 +4,7 @@
 
 # przechwytywanie wyjatkow (podstawy)
 try:
-    # dzielenie przez 0 (wyjate: ZeroDivisionError)
+    # dzielenie przez 0 (wyjatek: ZeroDivisionError)
     1 / 0
 except ZeroDivisionError:
     print("Wyjatek! Dzielenie przez 0!")
