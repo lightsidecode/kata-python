@@ -25,4 +25,5 @@ Podstawy
 Zadania
 ----------------------------
 1. [Napisać funkcje wykonującą kopiowanie pliku, która pomija linie rozpoczynające sie od znaku **#** (linie z komentarzami)](/tasks/task001.py).
-2. [Mamy napis wielowierszowy. W jaki sposób obliczyć liczbę wyrazów w napisie?](/tasks/task002.py)
+2. [Mamy napis wielowierszowy. W jaki sposób obliczyć liczbę wyrazów w napisie?](/tasks/task002.py).
+3. [Zaproponować program, który pozwoli rozdzielić wszystkie znaki danego słowa znakiem podkreslenia](/tasks/task003.py).
