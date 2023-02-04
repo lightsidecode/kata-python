@@ -32,4 +32,4 @@ Zadania
 6. [Odszukać najdłuższy wyraz oraz długość najdłuższego wyrazu w napisie](/tasks/task006.py).
 7. [Zamien liczby w kolekcji na jeden ciąg tekstowy](/tasks/task007.py).
 8. [W tekście wyszukaj 'GvR' i zamień na 'Guido van Rossum'](/tasks/task008.py).
-
+9. [Posortować wyrazy z napisu alfabetycznie oraz pod wzgledem długości](/tasks/task009.py).
