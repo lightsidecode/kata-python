@@ -29,3 +29,4 @@ Zadania
 3. [Zaproponować program, który pozwoli rozdzielić wszystkie znaki danego słowa znakiem podkreslenia](/tasks/task003.py).
 4. [Zbudować napis składający się z pierwszych/ostatnich znaków wszystkich słów umieszczonych w zmiennej](/tasks/task004.py).
 5. [Obliczyć łączną długość wyrazów w napisie](/tasks/task005.py).
+6. [Odszukać najdłuższy wyraz oraz długość najdłuższego wyrazu w napisie](/tasks/task006.py).
