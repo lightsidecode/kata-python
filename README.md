@@ -34,3 +34,4 @@ Zadania
 8. [W tekście wyszukaj 'GvR' i zamień na 'Guido van Rossum'](/tasks/task008.py).
 9. [Posortować wyrazy z napisu alfabetycznie oraz pod wzgledem długości](/tasks/task009.py).
 10. [Znalezc liczbę cyfr '0' w dużej liczbie całkowitej](/tasks/task010.py).
+11. [Lista zawiera liczby 1, 2 i 3 cyfrowe. Zbuduj napis z trzycyfrowych bloków z listy. Braki w liczbach uzupełnij zerami np. 1 = 001, 23 = 023, 481 = 481 itd.](/tasks/task011.py)
