@@ -33,3 +33,4 @@ Zadania
 7. [Zamien liczby w kolekcji na jeden ciąg tekstowy](/tasks/task007.py).
 8. [W tekście wyszukaj 'GvR' i zamień na 'Guido van Rossum'](/tasks/task008.py).
 9. [Posortować wyrazy z napisu alfabetycznie oraz pod wzgledem długości](/tasks/task009.py).
+10. [Znalezc liczbę cyfr '0' w dużej liczbie całkowitej](/tasks/task010.py).
